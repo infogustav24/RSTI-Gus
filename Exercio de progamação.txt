@@ -1,0 +1,11 @@
+//Exercicio 1
+let name = "Gustav"
+//Exercicio 2
+let surname = "Hahner Martins"
+//Exercicio 3
+let age  = 27
+//Exercicio 4
+let isSTudeny = false
+isSTudeny = true
+//Exercicio 5
+console.log("Meu nome",name,surname,"tenho",age ,"Sou estudante", isSTudeny)
