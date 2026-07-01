@@ -1,0 +1,17 @@
+
+//const idadeNumero = 23
+//const idadeTexto = idadeNumero.toString()
+//console.log(typeof idadeNumero)
+//console.log(typeof idadeTexto)
+
+//const textoIdade = "25"
+//const numeroidade = Number(textoIdade) 
+
+//console.log(typeof textoIdade )
+//console.log(typeof numeroidad)
+
+
+let age = 27
+let ageString = age.toString()
+console.log(age,typeof age)
+console.log(ageString,typeof ageString)
